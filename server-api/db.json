@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "8646757a-2469-4386-925b-af277300a89f",
+      "name": "Manav Rajesh Modi ",
+      "email": "modimanav094@gmail.com"
+    },
+    {
+      "id": "30849e4b-3779-415c-a49c-668b166d4517",
+      "name": "manav modi",
+      "email": "MAN2988915"
+    },
+    {
+      "id": "035b3c0c-1a97-477d-a215-4a5d95cbf8f8",
+      "name": "Manav Rajesh Modi ",
+      "email": "modimanav2002@gmail.com"
+    },
+    {
+      "id": "7c64e91e-58ed-4f4b-99af-6c0df6b6170c",
+      "name": "Manav Rajesh Modi ",
+      "email": "modimanav2002@gmail.com"
+    },
+    {
+      "id": "ad415f7d-d708-49c4-818a-0ce8ceb61a0c",
+      "name": "Hrllo ",
+      "email": "hello@gmail.com"
+    },
+    {
+      "id": "ee9152f6-3111-4263-ac9e-14048a62ad7a",
+      "name": "Aayush Pandey",
+      "email": "aayush@gmail.com"
+    }
+  ]
+}
